@@ -33,4 +33,6 @@ git push https://xxxxxxxxx  分支名
 git pull https://xxxxxxxxx  分支名
 文件克隆
 git clone https://xxxxxxxxx  分支名
+ssh配置与使用
+ssh-keygen -t rsa -C "邮箱"
 
