@@ -1,1 +1,9 @@
 第一天
+第二天
+git init   初始化
+
+git add ./a.txt   暂存区
+git add ./   把当前目录下的所有修改过的文件移动到暂存区
+git commit -m "xxx"  添加说明  并将暂存区文件移动到版本库
+git commit --all -m "xxx"    将所有文件直接移动到版本库
+git status   查看状态
