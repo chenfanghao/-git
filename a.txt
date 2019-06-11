@@ -27,5 +27,10 @@ git branch 查看分支
 git checkout 分支名  切换分支
 
 git merge 分支名 合并分支
-
+文件上传github
 git push https://xxxxxxxxx  分支名
+文件获取
+git pull https://xxxxxxxxx  分支名
+文件克隆
+git clone https://xxxxxxxxx  分支名
+
