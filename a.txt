@@ -11,3 +11,11 @@ git commit -m "xxx"  添加说明  并将暂存区文件保存到版本库
 git commit --all -m "xxx"    将所有文件直接保存到版本库
 
 git status   查看状态
+
+git log
+ 
+git log --oneline 
+
+git reset --hard Head~0
+
+git reset --haed [版本号]
